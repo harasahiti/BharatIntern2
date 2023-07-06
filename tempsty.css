@@ -1,0 +1,28 @@
+.container {
+  /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    background-image: url("https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/396927fd8512436d92cff9826b90bead");
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  input, button {
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+    background-color: black;
+    /* height: 10px; */
+    width: 150px;
+    /* font-size: 16px;  */
+  }
+
+  .cel{
+    color: white;
+  }
+
+  .far{
+    color: white;
+  }
+  
